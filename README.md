@@ -9,4 +9,4 @@ npm i
 ```
 npm run dev
 ```
-3) Open the ip address in the web-browser and you can see the visualization.
+3) Open the local host address in the web-browser and you can see the visualization.
